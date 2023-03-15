@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+img src="https://img.shields.io/badge/HTML-#1E90FF?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/
 <!--
 **Baga1927/Baga1927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
